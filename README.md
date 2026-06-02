@@ -1,6 +1,6 @@
 # Hi, I'm Divyanshi 👋
 
-B.Tech student interested in:
+A CSE student interested in:
 
 - Machine Learning
 - Development
