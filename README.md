@@ -2,15 +2,17 @@
 
 <!--
 **vdivyanshi/vdivyanshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Divyanshi 👋
 
-Here are some ideas to get you started:
+B.Tech student interested in:
+- Machine Learning
+- Development
+- UI/UX
+- Intelligent Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working On
+- Traffic prediction using SUMO simulations
+- Development projects
+- Exploring ML fundamentals
+
+## Looking forward to connect and collaborate! Mail,linkedin mentioned on profile.
