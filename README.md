@@ -15,4 +15,4 @@ B.Tech student interested in:
 - Development projects
 - Exploring ML fundamentals
 
-## Looking forward to connect and collaborate! Mail,linkedin mentioned on profile.
+
