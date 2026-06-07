@@ -3,7 +3,6 @@
 A CSE student interested in:
 
 - Machine Learning
-- Development
 - UI/UX
 - Intelligent Systems
 
