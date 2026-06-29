@@ -1,16 +1,12 @@
-# Hi, I'm Divyanshi 👋
+# Hello there!
 
-A CSE student interested in:
-
-- Machine Learning
-- UI/UX
-- Intelligent Systems
+Started with UI/UX and product design, now integrating that mindset to build meaningful and useful products in ML and CS. 
 
 ## Currently Working On
 
+- Desktop Time-tracker 
 - Traffic prediction using SUMO simulations
-- Development projects
-- Exploring ML fundamentals
+- 2-D Platformer
 
 ### Looking forward to connect and collaborate! 
 
