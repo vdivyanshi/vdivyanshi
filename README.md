@@ -1,6 +1,6 @@
 # Hello there!
 
-Started with UI/UX and product design, now integrating that mindset to build meaningful and useful products in ML and CS. 
+Started with UI/UX and product design, now integrating the skillset to build meaningful and useful products in ML and CS. 
 
 ## Currently Working On
 
